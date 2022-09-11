@@ -1,19 +1,19 @@
-# Node JS API Otentikasi
+# Node JS Menggunakan File .env
 
-Menambahkan fitur otentikasi pada API
+Menggunakan File .env Sebagai Data Konfigurasi
 
 ## Cara Install
 
-git clone https://github.com/joco-ding/nodejs-api-otentikasi
+git clone https://github.com/joco-ding/nodejs-dotenv
 
-cd nodejs-api-otentikasi
+cd nodejs-dotenv
 
 npm install
 
 ## Video Tutorial
 
 Video tutorial-nya bisa dilihat di 
-[youtube](https://youtu.be/KIDmlssRqMQ). 
+[youtube](https://youtu.be/emE7sKCUgu4). 
 Jika ada yang ingin ditanyakan silakan tinggalkan di 
 kolom komentar pada video nya.
 # nodejs-dotenv
